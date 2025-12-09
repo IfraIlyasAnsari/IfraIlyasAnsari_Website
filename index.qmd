@@ -22,7 +22,7 @@ subtitle: "Your tagline or brief description goes here"
 # Page layout configuration
 about:
   template: trestles              # Layout template (see options above)
-  image: images/hero-image.jpg    # Main image - add your own image here
+  image: images/image1.jpg    # Main image - add your own image here
   image-width: 20em               # Width of the profile/hero image
   links:
     - icon: envelope

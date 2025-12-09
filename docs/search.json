@@ -2,35 +2,35 @@
   {
     "objectID": "index.html",
     "href": "index.html",
-    "title": "YOUR_NAME Laboratory",
+    "title": "Ifra’s Website",
     "section": "",
     "text": "Write a brief introduction to yourself, your lab, or your work here. This is the first thing visitors will read, so make it engaging and informative.\nWhat we do: Describe your main focus, research interests, or professional activities in 2-3 sentences.\nOur mission: Explain what drives your work and what you hope to achieve."
   },
   {
     "objectID": "index.html#welcome",
     "href": "index.html#welcome",
-    "title": "YOUR_NAME Laboratory",
+    "title": "Ifra’s Website",
     "section": "",
     "text": "Write a brief introduction to yourself, your lab, or your work here. This is the first thing visitors will read, so make it engaging and informative.\nWhat we do: Describe your main focus, research interests, or professional activities in 2-3 sentences.\nOur mission: Explain what drives your work and what you hope to achieve."
   },
   {
     "objectID": "index.html#research-highlights",
     "href": "index.html#research-highlights",
-    "title": "YOUR_NAME Laboratory",
+    "title": "Ifra’s Website",
     "section": "Research Highlights",
     "text": "Research Highlights\nBriefly mention 2-3 key projects or areas of focus:\n\nProject One: Brief description of this research area\nProject Two: Brief description of another project\nProject Three: One more area of interest\n\nLearn more about our research →"
   },
   {
     "objectID": "index.html#recent-news",
     "href": "index.html#recent-news",
-    "title": "YOUR_NAME Laboratory",
+    "title": "Ifra’s Website",
     "section": "Recent News",
     "text": "Recent News\n\nCheck out our latest updates for news about publications, presentations, and lab activities."
   },
   {
     "objectID": "index.html#join-us",
     "href": "index.html#join-us",
-    "title": "YOUR_NAME Laboratory",
+    "title": "Ifra’s Website",
     "section": "Join Us",
     "text": "Join Us\nWe are always looking for motivated students and collaborators. If you’re interested in our work, please get in touch.\n\nThis website was built with Quarto."
   },
@@ -161,11 +161,11 @@
     "text": "Write 1-2 paragraphs providing a high-level overview of your research. What are the big questions you’re trying to answer? What approaches do you use?"
   },
   {
-    "objectID": "research.html#project-1-project-title",
-    "href": "research.html#project-1-project-title",
+    "objectID": "research.html#project-1-nafion-as-a-capping-layer",
+    "href": "research.html#project-1-nafion-as-a-capping-layer",
     "title": "Research",
-    "section": "Project 1: [Project Title]",
-    "text": "Project 1: [Project Title]\n\n\n\n\nProject 1 description\n\n\n\nBackground\nExplain the scientific context and motivation for this project. What gap in knowledge are you addressing?\n\n\nApproach\nDescribe your methodology. What techniques, tools, or frameworks do you use?\n\n\nKey Findings\nSummarize the main results or contributions of this work.\n\n\nRelated Publications\n\n\nAuthor et al. (Year). Paper title. Journal Name.\nAuthor et al. (Year). Another paper. Journal Name.\n\n\n\nFunding\nThis work is supported by [Funding Agency] grant #XXXXXXX."
+    "section": "Project 1: Nafion as a capping layer",
+    "text": "Project 1: Nafion as a capping layer\n\n\n\n\nProject 1 description\n\n\n\nBackground\nExplain the scientific context and motivation for this project. What gap in knowledge are you addressing?\n\n\nApproach\nDescribe your methodology. What techniques, tools, or frameworks do you use?\n\n\nKey Findings\nSummarize the main results or contributions of this work.\n\n\nRelated Publications\n\n\nAuthor et al. (Year). Paper title. Journal Name.\nAuthor et al. (Year). Another paper. Journal Name.\n\n\n\nFunding\nThis work is supported by [Funding Agency] grant #XXXXXXX."
   },
   {
     "objectID": "research.html#project-2-project-title",

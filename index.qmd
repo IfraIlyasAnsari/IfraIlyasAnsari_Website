@@ -16,7 +16,7 @@
 # - solana: Wide banner image with overlaid text
 # - marquee: Full-width hero with centered content
 # =============================================================================
-title: "YOUR_NAME Laboratory"
+title: "Ifra's Website"
 subtitle: "Your tagline or brief description goes here"
 
 # Page layout configuration

@@ -29,7 +29,7 @@ Write 1-2 paragraphs providing a high-level overview of your research. What are 
 
 ---
 
-## Project 1: [Project Title]
+## Project 1: Nafion as a capping layer 
 
 <!-- Add a project image -->
 ![Project 1 description](images/project1-image.jpg){fig-alt="Descriptive alt text for accessibility" width="80%"}
